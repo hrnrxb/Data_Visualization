@@ -1,4 +1,4 @@
-# "Introduction to Data Visualization" Workshop Materials 📊
+# "Data Comes Alive: An Introduction to Data Visualization with Python" Workshop Materials 📊
 This repository holds the presentation slides and Jupyter notebooks from [Hamid Namjoo](https://hamidnamjoo.com/)'s free Data Visualization workshop, held in **Fall 2025** at [**Islamic Azad University of Shiraz.**](https://shiraz.iau.ir/en)
 
 ---
