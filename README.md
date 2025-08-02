@@ -10,3 +10,5 @@ This repository holds the presentation slides and Jupyter notebooks from [Hamid 
 
 ## Jupyter Notebook 📓
 Grab the Jupyter notebook files directly from this repository for **hands-on practice.**
+[🔗Access the Notebook here](https://github.com/hrnrxb/Data_Visualization/blob/main/Introduction_to_Data_Visualization_with_Python.ipynb)
+[🔗Access the Google Colab here](https://colab.research.google.com/github/hrnrxb/Data_Visualization/blob/main/Introduction_to_Data_Visualization_with_Python.ipynb)
