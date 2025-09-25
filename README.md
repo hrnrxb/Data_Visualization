@@ -7,7 +7,7 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 > ## 📦 <strong>DVW.rar</strong> is All You Need
 
 **🎯 Complete Workshop Package** - Download everything in one convenient bundle:
-[📥 **Download Complete Workshop Materials (RAR)**](#) 
+[📥 **Download Complete Workshop Materials (RAR)**](https://drive.google.com/file/d/1cwrJG8rkCxIG7cGiWkBPy9Bm0TOxPPa_/view?usp=sharing) 
 *Contains: Slides (ODP, PPTX & PDF), Jupyter notebook(IPYNB, HTML & PDF), datasets, and supplementary resources*
 
 ---
@@ -18,11 +18,11 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 
 **📊 Google Slides** - [🔗 Interactive Presentation](https://docs.google.com/presentation/d/1vxnBW_orrz3A9QKGCsFrdp3aWZhsnVe9_hzLaKdRmcg/edit?usp=sharing)
 
-**📄 PDF Version** - [🔗 Download PDF Slides](#)
+**📄 PDF Version** - [🔗 Download PDF Slides](https://drive.google.com/file/d/1yB5z2LJMwg_Y6dAXa2X9EVA3DvSV9bjh/view?usp=sharing)
 
-**💼 PowerPoint Version** - [🔗 Download PPTX Slides](#)
+**💼 PowerPoint Version** - [🔗 Download PPTX Slides](https://docs.google.com/presentation/d/1UQb_tgbnmajPJsnRIzz2HqpLAJj_tKru/edit?usp=sharing&ouid=111546761383517093470&rtpof=true&sd=true)
 
-**✅ OpenDocument Presentation** - [🔗 Download ODP Slides](#) *(OpenSource alternative to PPTX)*
+**✅ OpenDocument Presentation** - [🔗 Download ODP Slides](https://drive.google.com/file/d/1Rt8EQyEzaGsgAKfbimy8C3VPgLsyen8J/view?usp=sharing) *(OpenSource✅ alternative to PPTX)*
 
 ---
 
@@ -32,11 +32,11 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 
 **📁 Jupyter Notebook** - [🔗 Run locally](https://github.com/hrnrxb/Data_Visualization/blob/main/Introduction_to_Data_Visualization_with_Python.ipynb)
 
-**🐍 Python Applications** - [🔗 Standalone Python Scripts (For local environments experiencing Jupyter kernel memory issues)]()
+**🐍 Python Applications** - [🔗 Standalone Python Scripts (For local environments experiencing Jupyter kernel memory issues)](https://github.com/hrnrxb/Data_Visualization/tree/main/python%20apps%20to%20run%20externally)
 
-**📄 PDF Version** - [🔗 Download Notebook as PDF](#)
+**📄 PDF Version** - [🔗 Download Notebook as PDF](https://github.com/hrnrxb/Data_Visualization/blob/main/Introduction_to_Data_Visualization_with_Python.pdf)
 
-**📃 HTML Version** - [🔗 Download Notebook as HTML](#)
+**📃 HTML Version** - [🔗 Download Notebook as HTML](https://github.com/hrnrxb/Data_Visualization/blob/main/Introduction_to_Data_Visualization_with_Python.html)
 
 ---
 
@@ -72,7 +72,7 @@ By completing this workshop, participants will be able to:
 
 ## 👥 Workshop Instructors
 
-**[Hamid Namjoo](https://hamidnamjoo.com)** - Lead Instructor & Data Visualization Expert
+**[Hamid Namjoo](https://hamidnamjoo.com)** - Instructor
 
 **[Shiraz Linux Users Group](https://shirazlug.ir/)** - Workshop Host & Technical Support
 
@@ -98,7 +98,7 @@ Found an issue or want to contribute? We welcome:
 
 - **Questions?** Open an issue in this repository
 - **Professional Inquiries:** [Contact Hamid Namjoo](https://hamidnamjoo.com)
-- **Community:** Join [Shiraz LUG](https://shirazlug.ir/) for ongoing support
+- **Community:** Join [Shiraz LUG](https://shirazlug.ir/) for ongoing supports and events✌️
 
 ---
 
