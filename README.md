@@ -12,6 +12,8 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 
 ---
 
+## Need something specific? Browse individual files below 👇
+
 ## 🖼️ Presentation Slides
 
 **📊 Google Slides** - [🔗 Interactive Presentation](https://docs.google.com/presentation/d/1vxnBW_orrz3A9QKGCsFrdp3aWZhsnVe9_hzLaKdRmcg/edit?usp=sharing)
