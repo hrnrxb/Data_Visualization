@@ -7,7 +7,7 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 > ## 📦 <strong>DVW.rar</strong> is All You Need
 
 **🎯 Complete Workshop Package** - Download everything in one convenient bundle:
-[📥 **Download Complete Workshop Materials (RAR)**](https://drive.google.com/file/d/1cwrJG8rkCxIG7cGiWkBPy9Bm0TOxPPa_/view?usp=sharing) 
+[📥 **Download Complete Workshop Materials (RAR)**](https://drive.google.com/file/d/1LIpfSKWoIat35S_npCTt5Q4gRRH5lAon/view?usp=sharing) 
 *Contains: Slides (ODP, PPTX & PDF), Jupyter notebook(IPYNB, HTML & PDF), datasets, and supplementary resources*
 
 ---
