@@ -32,6 +32,8 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 
 **📁 Jupyter Notebook** - [🔗 Run locally](https://github.com/hrnrxb/Data_Visualization/blob/main/Introduction_to_Data_Visualization_with_Python.ipynb)
 
+**🐍 Python Applications** - [🔗 Standalone Python Scripts (For local environments experiencing Jupyter kernel memory issues)]()
+
 **📄 PDF Version** - [🔗 Download Notebook as PDF](#)
 
 **📃 HTML Version** - [🔗 Download Notebook as HTML](#)
