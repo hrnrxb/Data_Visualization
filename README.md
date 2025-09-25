@@ -23,4 +23,4 @@ Grab the Jupyter notebook files directly from this repository for **hands-on pra
 
 ---
 
-This workshop hold by [hamidnamjoo](https://hamidnamjoo.com)😁✌️
+This workshop hold by [hamidnamjoo](https://hamidnamjoo.com) and [Shiraz LUG](https://shirazlug.ir/)😁✌️
