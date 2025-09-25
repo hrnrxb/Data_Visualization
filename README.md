@@ -22,7 +22,7 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 
 **💼 PowerPoint Version** - [🔗 Download PPTX Slides](https://docs.google.com/presentation/d/1UQb_tgbnmajPJsnRIzz2HqpLAJj_tKru/edit?usp=sharing&ouid=111546761383517093470&rtpof=true&sd=true)
 
-**✅ OpenDocument Presentation** - [🔗 Download ODP Slides](https://drive.google.com/file/d/1Rt8EQyEzaGsgAKfbimy8C3VPgLsyen8J/view?usp=sharing) *(OpenSource✅ alternative to PPTX)*
+**✅ OpenDocument Presentation** - [🔗 Download ODP Slides](https://drive.google.com/file/d/1Rt8EQyEzaGsgAKfbimy8C3VPgLsyen8J/view?usp=sharing) *(OpenSource✅ alternative to PPTX --> So, first download it then open it with [Impress by LibreOffice](https://www.libreoffice.org/discover/impress/))*
 
 ---
 
