@@ -76,7 +76,7 @@ By completing this workshop, participants will be able to:
 
 ## 📜 License
 
-This educational content is provided under Creative Commons Attribution-ShareAlike 4.0 International License.
+This educational content is provided under [CC0 1.0 Universal License](https://github.com/hrnrxb/Data_Visualization/blob/main/LICENSE).
 
 ---
 
