@@ -44,7 +44,7 @@ This repository contains comprehensive workshop materials from [Hamid Namjoo](ht
 
 **📝 Medium Article** - [🔗 Medium(not deep😅🤪) Dive Tutorial](https://hrnrxb.medium.com/5a3fe4a3852a?source=friends_link&sk=e2323739deb7e0affaddbe341bf187a3)
 
-**🎥 Workshop Recording** - [🔗 Watch Full Session](#) *(Coming Soon)*
+**🎥 Workshop Recording** - [🔗 Watch Full Session](#) *(Coming Soon)* --> *re-recorded at home with No crowd noise, no random interruptions. a clean& focused version*
 
 ---
 
